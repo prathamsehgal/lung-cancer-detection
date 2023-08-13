@@ -1,7 +1,5 @@
 # LUNA16-LUng-Nodule-Analysis-2016-Challenge
-> This is an example of the CT images lung nodule detection and false positive reduction from LUNA16-LUng-Nodule-Analysis-2016-Challenge
-![](luna16_header.png)
-
+> This is an example of the CT images lung nodule detection.
 ## Prerequisities
 The following dependencies are needed:
 - numpy >= 1.11.1
@@ -74,8 +72,6 @@ The following dependencies are needed:
 ![](metric.PNG)
 
 ## Contact
-* https://github.com/junqiangchen
-* email: 1207173174@qq.com
-* Contact: junqiangChen
-* WeChat Number: 1207173174
-* WeChat Public number: 最新医学影像技术
+* https://github.com/prathamsehgal
+* email: prathamsehgal1223@gmail.com
+* Contact +91 76668645081
