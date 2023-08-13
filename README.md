@@ -1,4 +1,4 @@
-# LUNA16-LUng-Nodule-Analysis-2016-Challenge
+# LUNA-LUng-Nodule-Analysis
 > This is an example of the CT images lung nodule detection.
 ## Prerequisities
 The following dependencies are needed:
