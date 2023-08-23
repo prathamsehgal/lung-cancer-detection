@@ -1,4 +1,4 @@
-# Lunf cancer Detection
+# Lung cancer Detection
 \
 The following dependencies are needed:
 - numpy >= 1.11.1
