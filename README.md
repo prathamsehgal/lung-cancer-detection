@@ -36,13 +36,11 @@ The following dependencies are needed:
 
 
 
-**4、download trained model**
-* i have shared the trained model of nodule detection and false positive reduction on here: https://pan.baidu.com/s/1I7zhzmPsTCbz0ZeIntNrUA ,password:orpm
 
 ## ROC Metrics
 
 ![](roc.PNG)
-![](ConfusionMatrix.PNG)
+
 ![](metric.PNG)
 
 Refer:
