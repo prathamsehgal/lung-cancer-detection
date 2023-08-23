@@ -1,6 +1,5 @@
-# LUNA-LUng-Nodule-Analysis
-> This is an example of the CT images lung nodule detection.
-## Prerequisities
+# Lunf cancer Detection
+\
 The following dependencies are needed:
 - numpy >= 1.11.1
 - SimpleITK >=1.0.1
@@ -45,33 +44,13 @@ The following dependencies are needed:
 **4、download trained model**
 * i have shared the trained model of nodule detection and false positive reduction on here: https://pan.baidu.com/s/1I7zhzmPsTCbz0ZeIntNrUA ,password:orpm
 
-## Result
-
-**1、Nodule Detection**
-
-* train loss and train accuracy
-
-![](segloss1.PNG)
-![](segaccuracy.PNG)
-
-* the segment result
-
-![](segImage.bmp)
-
-**2、False Positive Reducution**
-
-* train loss and train accuracy
-
-![](classfy_loss.PNG)
-![](classfy_accu.PNG)
-
-* ROC,Confusion Matrix and Metrics
+## ROC Metrics
 
 ![](roc.PNG)
 ![](ConfusionMatrix.PNG)
 ![](metric.PNG)
 
-## Contact
+Refer:
 * https://github.com/prathamsehgal
 * email: prathamsehgal1223@gmail.com
 * Contact +91 76668645081
