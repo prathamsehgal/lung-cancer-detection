@@ -34,12 +34,7 @@ The following dependencies are needed:
 
 * train and predict in the script of vnet3d_train.py and vnet3d_predict.py
 
-**3、False Positive Reducution**
-* the ResVGGNet model
 
-![](ResVGGNet.png)
-
-* train and predict in the script of ResNet3d_train.py and ResNet3d_predict.py
 
 **4、download trained model**
 * i have shared the trained model of nodule detection and false positive reduction on here: https://pan.baidu.com/s/1I7zhzmPsTCbz0ZeIntNrUA ,password:orpm
